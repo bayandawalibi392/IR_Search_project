@@ -1,0 +1,8 @@
+{
+    "Precision@10": 0.1163,
+    "Recall": 0.8594,
+    "MAP": 0.7398,
+    "MRR": 0.7539,
+    "Execution Time (seconds)": 427.02,
+    "Queries Evaluated": 4999
+}
